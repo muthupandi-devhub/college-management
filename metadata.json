@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard University | Admissions, Academics & Research",
+  "description": "Official institutional portal of Aethelgard University. Cambridge & Boston, EST. 1888. World-renowned academics, 100% need-blind admissions, residential houses, and cutting-edge research institutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
